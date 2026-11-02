@@ -5,3 +5,4 @@ if (nombre % 2 === 0) {
 } else {
     alert(nombre + " est impair");
 }
+
