@@ -16,4 +16,6 @@ if (a > b)
 
     // Opérateurs de comparaisons
     // > plus grand que, < plus petit que, >= plus grand ou égal, <= plus petit ou égal, == égal ou ===
-/* */ = // (bloc de commentaire);
+/* bloc
+de
+commenaitre  */
